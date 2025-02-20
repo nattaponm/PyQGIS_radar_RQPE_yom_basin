@@ -5,4 +5,7 @@ We developed python codes in PyQGIS for research entitled “Investigation of Z-
 1radar_CRI_data&1radar_PHS_data: This folder contains all radar data for both Chiangrai and Phitsanulok provinces used in associated with the codes
 1shapefile_data: This folder contains boundary shapefiles, gauge stations, radar stations.
 If you have any questions, you can email to me by nattaponm@nu.ac.th
-Asst Prof.Dr.Nattapon Mahavik (ผศ.ดร.นัฐพล มหาวิค), Lecturer in Geography and Geoinformatics, Naresuan University, Thailand
+Asst Prof.Dr.Nattapon Mahavik (รองศาสตราจารย์ดร.นัฐพล มหาวิค), Naresuan University, Thailand
+
+Read research article via: https://link.springer.com/article/10.1007/s12518-021-00383-2
+Read free from https://rdcu.be/eaAXl
